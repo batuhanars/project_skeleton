@@ -117,4 +117,4 @@
     </div>
 </template>
 
-<script setu
+<script setup></script>
